@@ -1,0 +1,285 @@
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\csc.exe
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\System.Collections.Immutable.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\vbc.exe
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\VBCSCompiler.exe
+C:\Test2016\HotelBooking\HotelBooking\bin\roslyn\VBCSCompiler.exe.config
+C:\Test2016\HotelBooking\HotelBooking\bin\HotelBooking.dll.config
+C:\Test2016\HotelBooking\HotelBooking\bin\HotelBooking.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\HotelBooking.pdb
+C:\Test2016\HotelBooking\HotelBooking\bin\Antlr3.Runtime.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\Microsoft.Web.Infrastructure.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\Newtonsoft.Json.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.Helpers.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.Mvc.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.Optimization.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.Razor.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.WebPages.Deployment.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.WebPages.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.WebPages.Razor.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\WebGrease.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.Helpers.xml
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.Mvc.xml
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.Optimization.xml
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.Razor.xml
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.WebPages.xml
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.WebPages.Deployment.xml
+C:\Test2016\HotelBooking\HotelBooking\bin\System.Web.WebPages.Razor.xml
+C:\Test2016\HotelBooking\HotelBooking\bin\Antlr3.Runtime.pdb
+C:\Test2016\HotelBooking\HotelBooking\bin\Newtonsoft.Json.xml
+C:\Test2016\HotelBooking\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache
+C:\Test2016\HotelBooking\HotelBooking\obj\Debug\HotelBooking.dll
+C:\Test2016\HotelBooking\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\Test2016\HotelBooking\HotelBooking\bin\EntityFramework.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\EntityFramework.SqlServer.dll
+C:\Test2016\HotelBooking\HotelBooking\bin\EntityFramework.xml
+C:\Test2016\HotelBooking\HotelBooking\bin\EntityFramework.SqlServer.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\csc.exe
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\System.Collections.Immutable.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\vbc.exe
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\VBCSCompiler.exe
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\roslyn\VBCSCompiler.exe.config
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\HotelBooking.dll.config
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\Antlr3.Runtime.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\EntityFramework.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\EntityFramework.SqlServer.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\Microsoft.Web.Infrastructure.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\Newtonsoft.Json.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.Helpers.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.Mvc.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.Optimization.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.Razor.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.WebPages.Deployment.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.WebPages.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.WebPages.Razor.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\WebGrease.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\EntityFramework.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\EntityFramework.SqlServer.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.Helpers.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.Mvc.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.Optimization.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.Razor.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.WebPages.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.WebPages.Deployment.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\System.Web.WebPages.Razor.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\Antlr3.Runtime.pdb
+C:\Test2016\Solutions\HotelBooking\HotelBooking\bin\Newtonsoft.Json.xml
+C:\Test2016\Solutions\HotelBooking\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache
+C:\Test2016\Solutions\HotelBooking\HotelBooking\obj\Debug\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\csc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\System.Collections.Immutable.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\vbc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\VBCSCompiler.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\roslyn\VBCSCompiler.exe.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\HotelBooking.dll.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\Antlr3.Runtime.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\EntityFramework.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\EntityFramework.SqlServer.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\Microsoft.Web.Infrastructure.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\Newtonsoft.Json.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.Helpers.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.Mvc.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.Optimization.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.WebPages.Deployment.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.WebPages.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.WebPages.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\WebGrease.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\EntityFramework.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\EntityFramework.SqlServer.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.Helpers.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.Mvc.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.Optimization.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.WebPages.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.WebPages.Deployment.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\System.Web.WebPages.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\Antlr3.Runtime.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\bin\Newtonsoft.Json.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\obj\Debug\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\csc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\System.Collections.Immutable.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\vbc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\VBCSCompiler.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\roslyn\VBCSCompiler.exe.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\HotelBooking.dll.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\Antlr3.Runtime.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\EntityFramework.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\EntityFramework.SqlServer.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\Microsoft.Web.Infrastructure.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\Newtonsoft.Json.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.Helpers.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.Mvc.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.Optimization.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.WebPages.Deployment.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.WebPages.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.WebPages.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\WebGrease.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\EntityFramework.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\EntityFramework.SqlServer.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.Helpers.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.Mvc.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.Optimization.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.WebPages.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.WebPages.Deployment.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\System.Web.WebPages.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\Antlr3.Runtime.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\bin\Newtonsoft.Json.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\obj\Debug\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 3 - manual DI\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\csc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\System.Collections.Immutable.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\vbc.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\VBCSCompiler.exe
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\roslyn\VBCSCompiler.exe.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\HotelBooking.dll.config
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\HotelBooking.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\Antlr3.Runtime.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\EntityFramework.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\EntityFramework.SqlServer.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\Microsoft.Web.Infrastructure.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\Newtonsoft.Json.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.Helpers.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.Mvc.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.Optimization.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.WebPages.Deployment.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.WebPages.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.WebPages.Razor.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\WebGrease.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\EntityFramework.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\EntityFramework.SqlServer.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.Helpers.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.Mvc.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.Optimization.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.WebPages.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.WebPages.Deployment.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\System.Web.WebPages.Razor.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\Antlr3.Runtime.pdb
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\bin\Newtonsoft.Json.xml
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\obj\Debug\HotelBooking.dll
+C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\csc.exe
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\csc.exe.config
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\csc.rsp
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\csi.exe
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\csi.rsp
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\System.AppContext.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\System.Collections.Immutable.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\System.IO.FileSystem.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\System.Reflection.Metadata.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\vbc.exe
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\vbc.exe.config
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\vbc.rsp
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\VBCSCompiler.exe
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\roslyn\VBCSCompiler.exe.config
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\HotelBooking.dll.config
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\HotelBooking.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\HotelBooking.pdb
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Antlr3.Runtime.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\EntityFramework.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\EntityFramework.SqlServer.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Microsoft.Web.Infrastructure.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Newtonsoft.Json.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.Web.Common.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.Web.Mvc.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Helpers.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Mvc.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Optimization.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Razor.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.Deployment.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.Razor.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\WebActivatorEx.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\WebGrease.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Antlr3.Runtime.pdb
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\EntityFramework.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\EntityFramework.SqlServer.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Newtonsoft.Json.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.Web.Common.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.Web.Mvc.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Helpers.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Mvc.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Optimization.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Razor.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.Deployment.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.Razor.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\obj\Debug\HotelBooking.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache

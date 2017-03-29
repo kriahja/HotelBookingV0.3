@@ -1,0 +1,40 @@
+﻿@model HotelBooking.Models.BookingViewModel
+
+@{
+    ViewBag.Title = "Index";
+    int year = Model.YearToDisplay;
+}
+
+<h2>Bookings</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<p>
+    @Html.ActionLink("Previous year", "Index", new { id = year - 1 }) |
+    @Html.ActionLink("Next year", "Index", new { id = year + 1 })
+</p>
+
+<table class="table">
+    <tr>
+        <th>@year</th>
+        @for (int day = 1; day <= 31; day++)
+        {
+            <th>@day</th>
+        }
+    </tr>
+
+    @for (int month = 1; month <= 12; month++)
+    {
+        <tr>
+            <td>
+                @Model.GetMonthName(month)
+            </td>
+
+            @for (int day = 1; day <= 31; day++)
+            {
+                <td @if (Model.DateIsOccupied(year, month, day)) { <text> class="dateOccupied" </text>  }></td>
+            }
+        </tr>
+    }
+</table>
