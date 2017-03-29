@@ -9,10 +9,13 @@ namespace HotelBooking.BLL
 {
     public class BookingManager
     {
-        public Facade facade = new Facade();
-        private IRepository<Booking> bookingRepository;
-        private IRepository<Room> roomRepository;
 
+        public IRepository<Booking> bookingRepository = new BookingRepository();
+        public IRepository<Room> roomRepository = new RoomRepository();
+
+        //this is what the new solution is suppose to have "Take out all NEW keywords"
+        //private IRepository<Booking> bookingRepository;
+        //private IRepository<Room> roomRepository;
 
         /// <summary>
         /// This method is used to create a booking for a hotel room
@@ -22,12 +25,6 @@ namespace HotelBooking.BLL
 
         public BookingManager()
         {
-
-        }
-
-        public BookingManager(Facade facade)
-        {
-            this.facade = facade;
 
         }
 
@@ -45,15 +42,15 @@ namespace HotelBooking.BLL
                 booking.RoomId = roomId;
                 booking.IsActive = true;
 
-                        //--------------------------------------------------------------------
-                        //Older version was going through the IRepository
+                //--------------------------------------------------------------------
+                //Older version was going through the IRepository
 
-                        //Booking newBooking = bookingRepository.Add(booking);
-                        //return newBooking;
-                        //---------------------------------------------------------------------
+                //Booking newBooking = bookingRepository.Add(booking);
+                //return newBooking;
+                //---------------------------------------------------------------------
 
-                //Making sure there is just one instance being created
-                return facade.GetBookingRepository().Add(booking);
+                Booking newBooking = bookingRepository.Add(booking);
+                return newBooking;
             }
             else
             {
@@ -72,10 +69,10 @@ namespace HotelBooking.BLL
             if (startDate <= DateTime.Today || startDate > endDate)
                 throw new ArgumentException("The start date cannot be in the past or later than the end date.");
 
-            foreach (var room in facade.GetRoomRepository().GetAll())
+            foreach (var room in roomRepository.GetAll())
                 
             {
-                if (!facade.GetBookingRepository().GetAll().Any(
+                if (!bookingRepository.GetAll().Any(
                         b => b.RoomId == room.Id && b.IsActive &&
                         (startDate >= b.StartDate && startDate <= b.EndDate ||
                         endDate >= b.StartDate && endDate <= b.EndDate)
@@ -99,8 +96,8 @@ namespace HotelBooking.BLL
                 throw new ArgumentException("The start date cannot be later than the end date.");
 
             List<DateTime> fullyOccupiedDates = new List<DateTime>();
-            int noOfRooms = facade.GetRoomRepository().GetAll().Count();
-            var bookings = facade.GetBookingRepository().GetAll();
+            int noOfRooms = roomRepository.GetAll().Count();
+            var bookings = bookingRepository.GetAll();
 
             if (bookings.Any())
             {

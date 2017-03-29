@@ -156,6 +156,7 @@
     <Compile Include="DAL\Repositories\BookingRepository.cs" />
     <Compile Include="DAL\Repositories\CustomerRepository.cs" />
     <Compile Include="DAL\Repositories\IRepository.cs" />
+    <Compile Include="DAL\Repositories\RepositoriesFactory.cs" />
     <Compile Include="DAL\Repositories\RoomRepository.cs" />
     <Compile Include="Facade.cs" />
     <Compile Include="Global.asax.cs">

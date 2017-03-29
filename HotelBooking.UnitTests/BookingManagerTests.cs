@@ -43,32 +43,45 @@ namespace HotelBooking.UnitTests
             Assert.AreNotEqual(-1, roomId);
         }
 
+
+
         private BookingManager CreateBookingManager()
         {
-         
+
             DateTime start = SystemTime.Today.AddDays(10);
             DateTime end = SystemTime.Today.AddDays(20);
 
-
-            List<Room> rooms = new List<Room>();
             List<Booking> bookings = new List<Booking>
             {
                 new Booking { Id=1, StartDate=start, EndDate=end, IsActive=true, CustomerId=1, RoomId=1 },
                 new Booking { Id=2, StartDate=start, EndDate=end, IsActive=true, CustomerId=2, RoomId=2 },
             };
+            List<Room> rooms = new List<Room>
+            {
+                new Room { Id = 1 },
+                new Room { Id = 2 }
+            };
 
-
-            IRepository<Room> fakeRoomRepos = Substitute.For<IRepository<Room>>();
+            // Create a fake BookingRepository using NSubstitute
             IRepository<Booking> fakeBookingRepos = Substitute.For<IRepository<Booking>>();
-
-            //We must create a RepositoryFactory to make this work. -- I think 8-)
-                //RepositoriesFactory.RoomRepository = fakeRoomRepos;
-                //RepositoriesFactory.BookingRepository = fakeBookingRepos;
-
-            fakeRoomRepos.GetAll().Returns(rooms);
+            // Set a return value for GetAll() 
             fakeBookingRepos.GetAll().Returns(bookings);
+            // Set a return value for Get() - not used
+            fakeBookingRepos.Get(2).Returns(bookings[1]);
+            // Set a return value for Add() - not used
+            fakeBookingRepos.Add(Arg.Any<Booking>()).Returns(bookings[1]);
+
+            // Create a fake RoomRepository using NSubstitute
+            IRepository<Room> fakeRoomRepos = Substitute.For<IRepository<Room>>();
+            // Set a return value for GetAll() 
+            fakeRoomRepos.GetAll().Returns(rooms);
 
 
+            RepositoriesFactory.BookingRepository = fakeBookingRepos;
+            RepositoriesFactory.RoomRepository = fakeRoomRepos;
+
+            fakeBookingRepos.GetAll().Returns(bookings);
+            fakeRoomRepos.GetAll().Returns(rooms);
 
             return new BookingManager();
 
