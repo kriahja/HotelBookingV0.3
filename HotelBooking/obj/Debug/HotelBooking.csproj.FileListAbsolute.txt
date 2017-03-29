@@ -256,6 +256,7 @@ C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Newtonsoft.Json.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.Web.Common.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.Web.Mvc.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\NSubstitute.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Helpers.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Mvc.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Optimization.dll
@@ -273,6 +274,7 @@ C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Newtonsoft.Json.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.Web.Common.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\Ninject.Web.Mvc.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\NSubstitute.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Helpers.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Mvc.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.Optimization.xml
@@ -282,4 +284,3 @@ C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.Deployment
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.Razor.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\obj\Debug\HotelBooking.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\obj\Debug\HotelBooking.pdb
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache

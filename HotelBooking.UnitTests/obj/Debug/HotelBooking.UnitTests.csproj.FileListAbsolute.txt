@@ -81,32 +81,6 @@ C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking.UnitT
 C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.dll.config
 C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
 C:\Test2016\Solutions\HotelBooking - Mini project part 2 ver2\HotelBooking.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\csc.exe
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\csc.exe.config
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\csc.rsp
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\csi.exe
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\csi.rsp
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\System.AppContext.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\System.IO.FileSystem.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\vbc.exe
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\vbc.exe.config
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\vbc.rsp
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
-C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\phantomjs.exe
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.dll.config
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\HotelBooking.UnitTests.dll
@@ -116,6 +90,7 @@ C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\EntityFramewor
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\HotelBooking.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\Ionic.Zip.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\NSubstitute.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\nunit.framework.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\WebDriver.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\WebActivatorEx.dll
@@ -131,6 +106,7 @@ C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\System.Web.Web
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\HotelBooking.pdb
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\EntityFramework.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\NSubstitute.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\nunit.framework.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\WebDriver.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\System.Web.Optimization.xml

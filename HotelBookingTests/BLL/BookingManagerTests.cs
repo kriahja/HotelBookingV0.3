@@ -13,7 +13,7 @@ namespace HotelBooking.BLL.Tests
     [TestClass()]
     public class BookingManagerTests
     {
-        
+
         [TestMethod()]
         public void FindAvailableRoom_StartDateNotInTheFuture_ThrowsArgumentException()
         {
