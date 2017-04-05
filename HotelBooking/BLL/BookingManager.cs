@@ -9,6 +9,8 @@ namespace HotelBooking.BLL
 {
     public class BookingManager
     {
+        //Need to check this, if correct
+        public RepositoriesFactory repositoryFactory = new RepositoriesFactory();
 
         public IRepository<Booking> bookingRepository = new BookingRepository();
         public IRepository<Room> roomRepository = new RoomRepository();

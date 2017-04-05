@@ -83,7 +83,7 @@ namespace HotelBooking.UnitTests
             fakeBookingRepos.GetAll().Returns(bookings);
             fakeRoomRepos.GetAll().Returns(rooms);
 
-            return new BookingManager();
+            return new BookingManager(fakeBookingRepos,fakeRoomRepos);
 
         }
     }
