@@ -50,21 +50,11 @@ namespace HotelBooking.BLL.Tests
             List<DateTime> knownDates= new List<DateTime>();
             for (int i = 0; i <= 14; ++i)
             {
-                knownDates.Add(new DateTime(2017, 4, 3 + i));
+                knownDates.Add(new DateTime(2017, 4, 20 + i));
             }
             
             List<DateTime> dates = manager.GetFullyOccupiedDates(DateTime.Today, DateTime.Today.AddYears(1));
             
-            for (int i = 0; i < knownDates.Count; ++i)
-            {
-                Debug.WriteLine(knownDates.ElementAt(i));
-            }
-            for (int i = 0; i < dates.Count; ++i)
-            {
-                Debug.WriteLine(dates.ElementAt(i));
-            }
-            Debug.WriteLine(knownDates.Count());
-            Debug.WriteLine(dates.Count());
             Assert.IsTrue(listcomparer(knownDates, dates));
         }
 

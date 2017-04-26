@@ -21,7 +21,7 @@ namespace SeleniumTests
         public void SetupTest()
         {
             driver = new ChromeDriver();
-            baseURL = "http://localhost:1247/";
+            baseURL = "http://localhost:1248/";
             verificationErrors = new StringBuilder();
         }
         
@@ -42,23 +42,18 @@ namespace SeleniumTests
         [Test]
         public void TheSeleninumTest()
         {
-            // Implicit wait.
-            // An implicit wait tells WebDriver to poll the DOM for a certain
-            // amount of time when trying to find an element or elements 
-            // if they are not immediately available. The implicit wait is
-            // not necessary here. I use it because it will keep the browser
-            // open for the specified timeout period if it cannot load the page.
-            // If there is a problem, the browser window may then show useful 
-            // information that can help solving the problem.
-            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
 
-            driver.Navigate().GoToUrl(baseURL + "/");
+#pragma warning disable CS0618 // Type or member is obsolete
+            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(1000));
+#pragma warning restore CS0618 // Type or member is obsolete
+
+            driver.Navigate().GoToUrl(baseURL);
             driver.FindElement(By.LinkText("Create New")).Click();
-            driver.FindElement(By.Id("StartDate")).Clear();
             driver.FindElement(By.Id("StartDate")).SendKeys("06/06/2017");
-            driver.FindElement(By.Id("EndDate")).Clear();
             driver.FindElement(By.Id("EndDate")).SendKeys("10/06/2017");
             driver.FindElement(By.CssSelector("input.btn.btn-default")).Click();
+
+            //Need an Assert here to actually test something
         }
         private bool IsElementPresent(By by)
         {
