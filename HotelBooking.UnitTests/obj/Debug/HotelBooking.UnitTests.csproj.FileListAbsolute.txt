@@ -148,3 +148,5 @@ C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\obj\Debug\HotelBooking.U
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.csproj.GenerateResource.Cache
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\obj\Debug\HotelBooking.UnitTests.pdb
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

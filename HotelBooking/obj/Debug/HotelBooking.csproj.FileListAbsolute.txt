@@ -284,3 +284,4 @@ C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.Deployment
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\bin\System.Web.WebPages.Razor.xml
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\obj\Debug\HotelBooking.dll
 C:\PBA\Testing\HotelBooking V0.3\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\PBA\Testing\HotelBooking V0.3\HotelBooking\obj\Debug\HotelBooking.csprojResolveAssemblyReference.cache
