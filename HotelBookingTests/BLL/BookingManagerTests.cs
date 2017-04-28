@@ -63,9 +63,10 @@ namespace HotelBooking.BLL.Tests
         {
             BookingManager manager = CreateBookingManager();
             List<DateTime> knownDates= new List<DateTime>();
+            DateTime date = DateTime.Today.AddDays(20);
             for (int i = 0; i <= 14; ++i)
             {
-                knownDates.Add(new DateTime(2017, 4, 20 + i));
+                knownDates.Add(date.AddDays(i));
             }
             
             List<DateTime> dates = manager.GetFullyOccupiedDates(DateTime.Today, DateTime.Today.AddYears(1));

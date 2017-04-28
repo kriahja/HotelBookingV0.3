@@ -4,6 +4,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using NUnit.Framework;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Chrome;
 
 namespace SeleniumTests
@@ -20,7 +21,7 @@ namespace SeleniumTests
         public void SetupTest()
         {
             driver = new ChromeDriver();
-            baseURL = "http://localhost:1247/";
+            baseURL = "http://localhost:1248/";
             verificationErrors = new StringBuilder();
         }
         
@@ -39,17 +40,23 @@ namespace SeleniumTests
         }
         
         [Test]
-        public void TheSeleniumAssertTest()
+        public void TheSeleniumAssertTestTest()
         {
-            //driver.Navigate().GoToUrl(baseURL + "/");
-            //driver.FindElement(By.LinkText("Create New")).Click();
-            //Assert.AreEqual("", driver.FindElement(By.Id("StartDate")).Text);
-            //driver.FindElement(By.Id("StartDate")).SendKeys("10/07/2017");
-            //Assert.AreEqual("", driver.FindElement(By.Id("EndDate")).Text);
-            //driver.FindElement(By.Id("EndDate")).SendKeys("20/07/2017");
-            //new SelectElement(driver.FindElement(By.Id("CustomerId"))).SelectByText("Jane Doe");
-            //Assert.AreEqual("John Smith Jane Doe", driver.FindElement(By.Id("CustomerId")).Text);
-            //driver.FindElement(By.CssSelector("input.btn.btn-default")).Click();
+
+#pragma warning disable CS0618 // Type or member is obsolete
+            driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(100));
+#pragma warning restore CS0618 // Type or member is obsolete
+
+            driver.Navigate().GoToUrl(baseURL + "/");
+            driver.FindElement(By.LinkText("Create New")).Click();
+            //driver.FindElement(By.Id("StartDate")).Clear();
+            driver.FindElement(By.Id("StartDate")).SendKeys("20/6/2017");
+            Assert.AreEqual("", driver.FindElement(By.Id("StartDate")).Text);
+            //driver.FindElement(By.Id("EndDate")).Clear();
+            driver.FindElement(By.Id("EndDate")).SendKeys("25/6/2017");
+            Assert.AreEqual("", driver.FindElement(By.Id("EndDate")).Text);
+            Assert.AreEqual("John Smith Jane Doe", driver.FindElement(By.Id("CustomerId")).Text);
+            driver.FindElement(By.CssSelector("input.btn.btn-default")).Click();
         }
         private bool IsElementPresent(By by)
         {
